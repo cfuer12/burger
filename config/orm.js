@@ -1,5 +1,5 @@
 // Import MySQL connection.
-const connection = require('./connection');
+const connection = require('../config/connection');
 
 // Helper function for SQL syntax to add question marks (?, ?, ?) in query
 const printQuestionMarks = (num) => {
@@ -86,5 +86,4 @@ const orm = {
     },
 }
 
-// Export the orm object for the model (cat.js).
 module.exports = orm;
