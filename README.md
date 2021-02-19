@@ -32,6 +32,4 @@
   ## Deployed
   Click [here](https://github.com/cfuer12/burger) to view github.
   Click [here](https://salty-falls-59063.herokuapp.com/) to view heroku.
-
-  ## Screenshot
-  <href="./public/assets/burger.jpeg">
+  
